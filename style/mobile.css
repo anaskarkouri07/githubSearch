@@ -1,0 +1,14 @@
+html {
+  font-size: 90%;
+}
+.container {
+  width: 80%;
+}
+@media (max-width: 600px) {
+  html {
+    font-size: 70%;
+  }
+  .container {
+    width: 95%;
+  }
+}
